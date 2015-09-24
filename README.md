@@ -1,2 +1,3 @@
 # testing
-I'm new to GitHub
+I'm new to Git
+my favourite colour is blue
